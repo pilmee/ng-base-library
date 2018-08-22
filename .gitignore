@@ -1,8 +1,9 @@
 tmp
 build
-out-tsc
 coverage
 dist
+dist.tgz
 node_modules
 package-lock.json
 .npmrc
+PhantomJS*
